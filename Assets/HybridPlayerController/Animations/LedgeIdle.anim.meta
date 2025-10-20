@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b648f41317e24cb408646d5356dcad37
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/LedgeIdle.anim
+  uploadId: 790942

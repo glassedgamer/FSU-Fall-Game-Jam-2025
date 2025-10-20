@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edc8daae4af6982498b168df2f0b44f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Demo/Animations/Coin.controller
+  uploadId: 790942

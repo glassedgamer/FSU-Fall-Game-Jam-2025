@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 439d3edaf3514104da0d2d093ca37b0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/Grapple.anim
+  uploadId: 790942

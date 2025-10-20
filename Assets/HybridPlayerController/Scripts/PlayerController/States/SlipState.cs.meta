@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a0bf64638ecd8444798b239f02335c33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/PlayerController/States/SlipState.cs
+  uploadId: 790942

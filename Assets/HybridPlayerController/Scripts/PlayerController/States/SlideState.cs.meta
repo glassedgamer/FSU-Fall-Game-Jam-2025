@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a6126112e8627da4c97a79c6f0268f52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/PlayerController/States/SlideState.cs
+  uploadId: 790942

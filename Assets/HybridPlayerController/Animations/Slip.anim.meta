@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78dd509bf775bf148910a7cb19726c92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/Slip.anim
+  uploadId: 790942

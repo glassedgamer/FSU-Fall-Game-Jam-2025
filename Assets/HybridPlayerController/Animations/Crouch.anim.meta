@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0466a03223d03c04fa4f0ad211fd5624
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/Crouch.anim
+  uploadId: 790942

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: be52d003dd8790c4a9fdd039c86d504b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/PlayerController/States/FallingState.cs
+  uploadId: 790942

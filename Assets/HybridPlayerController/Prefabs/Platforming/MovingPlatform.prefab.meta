@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7567fd8767b2c2b4e883ba46591bd3bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Prefabs/Platforming/MovingPlatform.prefab
+  uploadId: 790942

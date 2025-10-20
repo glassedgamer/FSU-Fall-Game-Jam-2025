@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fe6d5c82ed62390439e018405c44fc70
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/Platforming/StickPlayer.cs
+  uploadId: 790942

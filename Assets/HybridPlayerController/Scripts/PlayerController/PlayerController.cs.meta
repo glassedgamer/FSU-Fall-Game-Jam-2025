@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c39bcd1da363df4a8f6445b4aec664c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/PlayerController/PlayerController.cs
+  uploadId: 790942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1182c8695e893644b80ab4076230f639
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Demo/Prefabs/CoinBuiltIn.prefab
+  uploadId: 790942

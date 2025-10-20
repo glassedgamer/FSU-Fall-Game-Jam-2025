@@ -1,0 +1,39 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+namespace HybridPlayerController
+{
+    public class /*STATENAME*/ : IState
+    {
+        private bool _isUnlocked;
+        public bool isUnlocked
+        {
+            get => _isUnlocked;
+            set
+            {
+                _isUnlocked = value;
+                SaveUnlockStatus();
+            }
+        }
+
+        public void EnterState(PlayerController player){}
+
+        public void UpdateState(PlayerController player){}
+
+        public void FixedUpdateState(PlayerController player){}
+
+        public void ExitState(PlayerController player){}
+        
+	    private string PlayerPrefsKey => "/*STATENAME*/_Unlocked";
+        public void LoadUnlockStatus()
+        {
+            _isUnlocked = PlayerPrefs.GetInt(PlayerPrefsKey, 1) == 1;
+        }
+
+        private void SaveUnlockStatus()
+        {
+            PlayerPrefs.SetInt(PlayerPrefsKey, _isUnlocked ? 1 : 0);
+            PlayerPrefs.Save();
+        }
+    }
+}

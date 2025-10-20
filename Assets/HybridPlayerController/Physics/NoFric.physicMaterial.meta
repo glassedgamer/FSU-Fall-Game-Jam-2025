@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d836a6b07abcfa34fb91f287d453d7dd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Physics/NoFric.physicMaterial
+  uploadId: 790942

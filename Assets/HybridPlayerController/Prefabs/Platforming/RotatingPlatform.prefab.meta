@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ea14b3766cef624fb4a4fc80c61d96e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Prefabs/Platforming/RotatingPlatform.prefab
+  uploadId: 790942

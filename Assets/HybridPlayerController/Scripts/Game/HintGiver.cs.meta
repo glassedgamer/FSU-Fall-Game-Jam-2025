@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ace4f5cf6a673fc4689a71deaa75cd63
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/Game/HintGiver.cs
+  uploadId: 790942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95fb37d450f932645be3677e1e752acf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Demo/Prefabs/CoinURP.prefab
+  uploadId: 790942

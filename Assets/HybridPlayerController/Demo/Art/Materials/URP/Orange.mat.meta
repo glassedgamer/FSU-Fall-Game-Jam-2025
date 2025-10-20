@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46f3a58e63840484ba0b3c74e3c34f14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Demo/Art/Materials/URP/Orange.mat
+  uploadId: 790942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da6a8301bb56f574a905900a7456ad46
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Prefabs/Platforming/Swing Bar.prefab
+  uploadId: 790942

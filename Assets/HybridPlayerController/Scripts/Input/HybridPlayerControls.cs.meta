@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 050f379abf71f8d4bbf536cb960f0f7b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/Input/HybridPlayerControls.cs
+  uploadId: 790942

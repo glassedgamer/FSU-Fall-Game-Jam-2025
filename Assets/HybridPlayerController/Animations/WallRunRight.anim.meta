@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcdb73d2beed5aa4ea7a85d4c966dff0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/WallRunRight.anim
+  uploadId: 790942

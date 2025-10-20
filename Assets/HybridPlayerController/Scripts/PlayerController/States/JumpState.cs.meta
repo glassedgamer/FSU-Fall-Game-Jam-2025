@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 47c81f5ef7003364881a9e6bcd2f3216
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/PlayerController/States/JumpState.cs
+  uploadId: 790942

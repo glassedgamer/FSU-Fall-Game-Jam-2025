@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b82d373a14540949bd20d5fda9dbeda
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/Built-In-Pipeline/DemoLevel.unity
+  uploadId: 790942

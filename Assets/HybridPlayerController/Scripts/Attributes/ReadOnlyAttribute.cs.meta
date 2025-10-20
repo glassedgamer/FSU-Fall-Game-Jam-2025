@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 11c696686733ee748bbe79bd187c0450
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/Attributes/ReadOnlyAttribute.cs
+  uploadId: 790942

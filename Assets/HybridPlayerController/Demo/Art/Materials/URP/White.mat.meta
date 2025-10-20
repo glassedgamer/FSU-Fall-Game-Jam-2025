@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd528703f6141ad478d85560bb06ce9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Demo/Art/Materials/URP/White.mat
+  uploadId: 790942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99065917b4d3f404ca4c59dff0229af6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Prefabs/Game/CheckPoint.prefab
+  uploadId: 790942

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32cb3220f9f06244ab7dfc2f59706020
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/Platforming/MovingPlatform.cs
+  uploadId: 790942

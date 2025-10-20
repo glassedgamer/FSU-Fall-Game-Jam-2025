@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0602eeb00d958e14f876d4c2aedd3af2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/Platforming/RotatingPlatform.cs
+  uploadId: 790942

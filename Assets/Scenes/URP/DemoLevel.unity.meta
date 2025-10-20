@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f34ec8b29b934a429f52dbbfdf2cdc3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/URP/DemoLevel.unity
+  uploadId: 790942

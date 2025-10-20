@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adc75e234b113be4da21b4c449005402
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Physics/Fric.physicMaterial
+  uploadId: 790942

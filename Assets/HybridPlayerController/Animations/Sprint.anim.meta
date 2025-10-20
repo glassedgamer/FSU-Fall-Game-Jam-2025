@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7840eb72eaad4c0448017895cdede51d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/Sprint.anim
+  uploadId: 790942

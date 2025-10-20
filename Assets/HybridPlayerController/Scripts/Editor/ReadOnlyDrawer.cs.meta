@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1d5c1bc398d928b4a8f8f740256199e2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Scripts/Editor/ReadOnlyDrawer.cs
+  uploadId: 790942

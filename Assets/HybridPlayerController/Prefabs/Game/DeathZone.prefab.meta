@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 704089e74e54f0747a83ab61e1cf7fc4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Prefabs/Game/DeathZone.prefab
+  uploadId: 790942

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 384ec2c988a351141b2d4795b7cbee3e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Docs/README.md
+  uploadId: 790942

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e22248b27d45ca040a52a010b9035807
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/Jump.anim
+  uploadId: 790942

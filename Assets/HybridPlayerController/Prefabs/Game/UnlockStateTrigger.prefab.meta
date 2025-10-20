@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e698d3112910ab648a3bb3a1833f0426
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Prefabs/Game/UnlockStateTrigger.prefab
+  uploadId: 790942

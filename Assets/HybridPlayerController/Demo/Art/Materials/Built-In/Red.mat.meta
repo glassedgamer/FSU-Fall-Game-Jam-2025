@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b292dd56a043644ea3cf55e5dd1ff2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Demo/Art/Materials/Built-In/Red.mat
+  uploadId: 790942

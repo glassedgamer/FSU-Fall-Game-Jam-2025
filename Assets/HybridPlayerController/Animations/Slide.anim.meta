@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2679201cb99b0fc429f4197211e0346e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/Slide.anim
+  uploadId: 790942

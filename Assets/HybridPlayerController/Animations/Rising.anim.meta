@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 032dab9626fe4884e89780e5538cf8cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325705
+  packageName: Hybrid Player Controller
+  packageVersion: 1.0
+  assetPath: Assets/HybridPlayerController/Animations/Rising.anim
+  uploadId: 790942
