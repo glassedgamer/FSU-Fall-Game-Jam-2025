@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Phone
+  - MovingPlatform
+  - GrappleSurface
+  - SwingBar
   layers:
   - Default
   - TransparentFX
@@ -12,7 +15,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 

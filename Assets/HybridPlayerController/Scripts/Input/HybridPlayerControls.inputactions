@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "HybridPlayerControls",
     "maps": [
         {
@@ -63,6 +64,15 @@
                     "name": "Fire",
                     "type": "Button",
                     "id": "c9c3fafc-9a04-49ef-9e5f-d6f27a7f152e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Interact",
+                    "type": "Button",
+                    "id": "63fd298c-6966-4d6b-864c-061478998a7b",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -375,6 +385,17 @@
                     "processors": "",
                     "groups": "Joystick",
                     "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c10a10ff-b53a-472f-a6fc-dd363ceb7f55",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interact",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
