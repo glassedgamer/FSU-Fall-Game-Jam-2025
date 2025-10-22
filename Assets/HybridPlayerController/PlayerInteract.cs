@@ -7,6 +7,7 @@ public class PlayerInteract : MonoBehaviour
     [SerializeField] float hitDistance = 4f;
 
     [SerializeField] GameObject crosshair;
+    [SerializeField] GameObject gm;
 
     private void Start()
     {
@@ -44,6 +45,7 @@ public class PlayerInteract : MonoBehaviour
                 if(hit.collider.gameObject.name == "Pedestal")
                 {
                     crosshair.SetActive(false);
+                    gm.GetComponent<GameManager>().InteractCounter();
                     hit.collider.gameObject.GetComponent<PhonePedestal>().RandomallySpawn();
                     crosshair.SetActive(false);
                 }

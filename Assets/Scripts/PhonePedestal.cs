@@ -10,7 +10,7 @@ public class PhonePedestal : MonoBehaviour
 
     private void Start()
     {
-        bndFloor = GameObject.Find("Ground").GetComponent<Renderer>().bounds;
+        bndFloor = GameObject.Find("Building").GetComponent<Renderer>().bounds;
     }
 
     public void RandomallySpawn()
